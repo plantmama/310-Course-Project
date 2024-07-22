@@ -1,0 +1,68 @@
+.wrapper {
+    width: 400px; 
+    height: 400px; 
+    position: absolute; 
+    left: 0; 
+    top: 0;
+}/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    padding-top: 60px; /* Adjust this value based on the height of your header */
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the header */
+header {
+    background-color: black;
+    padding: 10px;
+    box-shadow: 0 4px 2px -2px gray;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
+
+
+header nav {
+    text-align: right;
+}
+
+header .nav_link {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    display: inline-block;
+    transition: background-color 0.3s ease-in-out;
+}
+
+header .nav_link:hover {
+    background-color: #555;
+    border-radius: 4px;
+}
+
+.nav_link {
+    margin: 0 10px;
+}
+
+
+
+/* Footer styles */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0; /* Padding is spacing */
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+    border-top: 1px solid #060000; /* Line above footer */
+}
