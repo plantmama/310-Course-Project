@@ -1,6 +1,6 @@
 # 🌊 **Ponyo-Themed Shopping Site** 🌊
 
-![Ponyo Banner](https://example.com/ponyo-banner.jpg)
+![Ponyo Banner]([https://example.com/ponyo-banner.jpg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56f0e3d0-0ec3-45b2-be37-0006efdcc527/d2ioiqc-ef723f5e-0de9-4fdd-85c6-ef7cef64ccd7.png/v1/fill/w_685,h_500,q_80,strp/ponyo_banner_entry_by_jayeybee_d2ioiqc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvNTZmMGUzZDAtMGVjMy00NWIyLWJlMzctMDAwNmVmZGNjNTI3XC9kMmlvaXFjLWVmNzIzZjVlLTBkZTktNGZkZC04NWM2LWVmN2NlZjY0Y2NkNy5wbmciLCJ3aWR0aCI6Ijw9Njg1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.MPxkVpZuo3j1x6KRL3AiWyl34OT0T69Ua9pJ-h1G6mE))
 
 ---
 
